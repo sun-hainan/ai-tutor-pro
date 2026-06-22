@@ -21,5 +21,3 @@ uploads/
 *.swp
 .DS_Store
 
-git config --global user.name "sun-hainan"
-git config --global user.email "55839543@qq.com"
