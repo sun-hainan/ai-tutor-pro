@@ -1,0 +1,25 @@
+# 虚拟环境
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 敏感配置
+.env
+
+# 数据和上传
+data/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+git config --global user.name "sun-hainan"
+git config --global user.email "55839543@qq.com"
